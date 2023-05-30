@@ -1,2 +1,2 @@
 # Library-Management-System
- A Java project with SQL as a backend
+ A C sharp project with SQL as a backend
